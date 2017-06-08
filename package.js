@@ -1,6 +1,6 @@
 Package.describe({
     name: 'alexgleith:meteor-rangeslider',
-    version: '0.1.0',
+    version: '0.1.1',
     summary: 'wrapper for Ion.RangeSlider',
     git: 'https://github.com/alexgleith/meteor-rangeslider',
     documentation: 'README.md'
