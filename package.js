@@ -15,5 +15,5 @@ Package.onUse(function (api) {
     api.addFiles('.npm/package/node_modules/ion-rangeslider/js/ion.rangeSlider.min.js', 'client');
     api.addFiles('.npm/package/node_modules/ion-rangeslider/css/ion.rangeSlider.css', 'client');
     api.addFiles('.npm/package/node_modules/ion-rangeslider/css/ion.rangeSlider.skinNice.css', 'client');
-    api.addFiles('.npm/package/node_modules/ion-rangeslider/img/sprite-skin-flat.png', 'client', {isAsset: true});
+    api.addFiles('.npm/package/node_modules/ion-rangeslider/img/sprite-skin-nice.png', 'client', {isAsset: true});
 });
